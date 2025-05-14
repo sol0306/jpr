@@ -18,8 +18,8 @@ function generateWord() {
   if (words.length === 0) return;
   const random = words[Math.floor(Math.random() * words.length)];
   document.getElementById("word_display").innerText = `단어: ${random.word}`;
-  document.getElementById("jp_word").innerText = random.jp_word;
-  document.getElementById("jp_meaning").innerText = random.jp_meaning;
+  document.getElementById("ko_word").innerText = random.ko_word;
+  document.getElementById("ko_meaning").innerText = random.jp_meaning;
 
   document.getElementById("jp_display").style.display = "none";
   document.getElementById("meaning_display").style.display = "none";
