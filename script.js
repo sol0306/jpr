@@ -2,11 +2,12 @@ let words = [];
 let timer = 0;
 let stopwatchInterval;
 
-fetch('words.json?_=' + Date.now())
+fetch('words_ja_unique_300.json?_=' + Date.now())
   .then(response => response.json())
   .then(data => {
     words = data;
   });
+
 
 function startApp() {
   document.getElementById("start_section").style.display = "none";
