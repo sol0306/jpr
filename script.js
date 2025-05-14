@@ -2,7 +2,7 @@ let words = [];
 let timer = 0;
 let stopwatchInterval;
 
-fetch('words.json')
+fetch('words.json?_=' + Date.now())
   .then(response => response.json())
   .then(data => {
     words = data;
