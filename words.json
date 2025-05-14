@@ -13,5 +13,1490 @@
     "word": "관계",
     "jp_word": "関係",
     "jp_meaning": "人や物の間のつながり"
+  },
+  {
+    "word": "생활",
+    "jp_word": "生活",
+    "jp_meaning": "毎日の暮らし"
+  },
+  {
+    "word": "실패",
+    "jp_word": "失敗",
+    "jp_meaning": "うまくいかないこと"
+  },
+  {
+    "word": "예정",
+    "jp_word": "予定",
+    "jp_meaning": "これからすることに決めたこと"
+  },
+  {
+    "word": "자료",
+    "jp_word": "資料",
+    "jp_meaning": "参考になる情報やデータ"
+  },
+  {
+    "word": "자신감",
+    "jp_word": "自信",
+    "jp_meaning": "自分を信じる気持ち"
+  },
+  {
+    "word": "행동",
+    "jp_word": "行動",
+    "jp_meaning": "実際に何かをすること"
+  },
+  {
+    "word": "발전",
+    "jp_word": "発展",
+    "jp_meaning": "物事がよくなっていくこと"
+  },
+  {
+    "word": "능력",
+    "jp_word": "能力",
+    "jp_meaning": "物事をうまくやる力"
+  },
+  {
+    "word": "조건",
+    "jp_word": "条件",
+    "jp_meaning": "あることが成り立つための前提"
+  },
+  {
+    "word": "이해",
+    "jp_word": "理解",
+    "jp_meaning": "内容をよくわかること"
+  },
+  {
+    "word": "연락",
+    "jp_word": "連絡",
+    "jp_meaning": "相手に情報を伝えること"
+  },
+  {
+    "word": "변화",
+    "jp_word": "変化",
+    "jp_meaning": "何かが違ってくること"
+  },
+  {
+    "word": "관심",
+    "jp_word": "関心",
+    "jp_meaning": "興味を持つこと"
+  },
+  {
+    "word": "성공",
+    "jp_word": "成功",
+    "jp_meaning": "思ったとおりにうまくいくこと"
+  },
+  {
+    "word": "정보",
+    "jp_word": "情報",
+    "jp_meaning": "知っておくべき内容"
+  },
+  {
+    "word": "문제",
+    "jp_word": "問題",
+    "jp_meaning": "解決しなければならないこと"
+  },
+  {
+    "word": "기억",
+    "jp_word": "記憶",
+    "jp_meaning": "覚えていること"
+  },
+  {
+    "word": "경험",
+    "jp_word": "経験",
+    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+  },
+  {
+    "word": "결정",
+    "jp_word": "決定",
+    "jp_meaning": "あることをすることに決めること"
+  },
+  {
+    "word": "관계",
+    "jp_word": "関係",
+    "jp_meaning": "人や物の間のつながり"
+  },
+  {
+    "word": "생활",
+    "jp_word": "生活",
+    "jp_meaning": "毎日の暮らし"
+  },
+  {
+    "word": "실패",
+    "jp_word": "失敗",
+    "jp_meaning": "うまくいかないこと"
+  },
+  {
+    "word": "예정",
+    "jp_word": "予定",
+    "jp_meaning": "これからすることに決めたこと"
+  },
+  {
+    "word": "자료",
+    "jp_word": "資料",
+    "jp_meaning": "参考になる情報やデータ"
+  },
+  {
+    "word": "자신감",
+    "jp_word": "自信",
+    "jp_meaning": "自分を信じる気持ち"
+  },
+  {
+    "word": "행동",
+    "jp_word": "行動",
+    "jp_meaning": "実際に何かをすること"
+  },
+  {
+    "word": "발전",
+    "jp_word": "発展",
+    "jp_meaning": "物事がよくなっていくこと"
+  },
+  {
+    "word": "능력",
+    "jp_word": "能力",
+    "jp_meaning": "物事をうまくやる力"
+  },
+  {
+    "word": "조건",
+    "jp_word": "条件",
+    "jp_meaning": "あることが成り立つための前提"
+  },
+  {
+    "word": "이해",
+    "jp_word": "理解",
+    "jp_meaning": "内容をよくわかること"
+  },
+  {
+    "word": "연락",
+    "jp_word": "連絡",
+    "jp_meaning": "相手に情報を伝えること"
+  },
+  {
+    "word": "변화",
+    "jp_word": "変化",
+    "jp_meaning": "何かが違ってくること"
+  },
+  {
+    "word": "관심",
+    "jp_word": "関心",
+    "jp_meaning": "興味を持つこと"
+  },
+  {
+    "word": "성공",
+    "jp_word": "成功",
+    "jp_meaning": "思ったとおりにうまくいくこと"
+  },
+  {
+    "word": "정보",
+    "jp_word": "情報",
+    "jp_meaning": "知っておくべき内容"
+  },
+  {
+    "word": "문제",
+    "jp_word": "問題",
+    "jp_meaning": "解決しなければならないこと"
+  },
+  {
+    "word": "기억",
+    "jp_word": "記憶",
+    "jp_meaning": "覚えていること"
+  },
+  {
+    "word": "경험",
+    "jp_word": "経験",
+    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+  },
+  {
+    "word": "결정",
+    "jp_word": "決定",
+    "jp_meaning": "あることをすることに決めること"
+  },
+  {
+    "word": "관계",
+    "jp_word": "関係",
+    "jp_meaning": "人や物の間のつながり"
+  },
+  {
+    "word": "생활",
+    "jp_word": "生活",
+    "jp_meaning": "毎日の暮らし"
+  },
+  {
+    "word": "실패",
+    "jp_word": "失敗",
+    "jp_meaning": "うまくいかないこと"
+  },
+  {
+    "word": "예정",
+    "jp_word": "予定",
+    "jp_meaning": "これからすることに決めたこと"
+  },
+  {
+    "word": "자료",
+    "jp_word": "資料",
+    "jp_meaning": "参考になる情報やデータ"
+  },
+  {
+    "word": "자신감",
+    "jp_word": "自信",
+    "jp_meaning": "自分を信じる気持ち"
+  },
+  {
+    "word": "행동",
+    "jp_word": "行動",
+    "jp_meaning": "実際に何かをすること"
+  },
+  {
+    "word": "발전",
+    "jp_word": "発展",
+    "jp_meaning": "物事がよくなっていくこと"
+  },
+  {
+    "word": "능력",
+    "jp_word": "能力",
+    "jp_meaning": "物事をうまくやる力"
+  },
+  {
+    "word": "조건",
+    "jp_word": "条件",
+    "jp_meaning": "あることが成り立つための前提"
+  },
+  {
+    "word": "이해",
+    "jp_word": "理解",
+    "jp_meaning": "内容をよくわかること"
+  },
+  {
+    "word": "연락",
+    "jp_word": "連絡",
+    "jp_meaning": "相手に情報を伝えること"
+  },
+  {
+    "word": "변화",
+    "jp_word": "変化",
+    "jp_meaning": "何かが違ってくること"
+  },
+  {
+    "word": "관심",
+    "jp_word": "関心",
+    "jp_meaning": "興味を持つこと"
+  },
+  {
+    "word": "성공",
+    "jp_word": "成功",
+    "jp_meaning": "思ったとおりにうまくいくこと"
+  },
+  {
+    "word": "정보",
+    "jp_word": "情報",
+    "jp_meaning": "知っておくべき内容"
+  },
+  {
+    "word": "문제",
+    "jp_word": "問題",
+    "jp_meaning": "解決しなければならないこと"
+  },
+  {
+    "word": "기억",
+    "jp_word": "記憶",
+    "jp_meaning": "覚えていること"
+  },
+  {
+    "word": "경험",
+    "jp_word": "経験",
+    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+  },
+  {
+    "word": "결정",
+    "jp_word": "決定",
+    "jp_meaning": "あることをすることに決めること"
+  },
+  {
+    "word": "관계",
+    "jp_word": "関係",
+    "jp_meaning": "人や物の間のつながり"
+  },
+  {
+    "word": "생활",
+    "jp_word": "生活",
+    "jp_meaning": "毎日の暮らし"
+  },
+  {
+    "word": "실패",
+    "jp_word": "失敗",
+    "jp_meaning": "うまくいかないこと"
+  },
+  {
+    "word": "예정",
+    "jp_word": "予定",
+    "jp_meaning": "これからすることに決めたこと"
+  },
+  {
+    "word": "자료",
+    "jp_word": "資料",
+    "jp_meaning": "参考になる情報やデータ"
+  },
+  {
+    "word": "자신감",
+    "jp_word": "自信",
+    "jp_meaning": "自分を信じる気持ち"
+  },
+  {
+    "word": "행동",
+    "jp_word": "行動",
+    "jp_meaning": "実際に何かをすること"
+  },
+  {
+    "word": "발전",
+    "jp_word": "発展",
+    "jp_meaning": "物事がよくなっていくこと"
+  },
+  {
+    "word": "능력",
+    "jp_word": "能力",
+    "jp_meaning": "物事をうまくやる力"
+  },
+  {
+    "word": "조건",
+    "jp_word": "条件",
+    "jp_meaning": "あることが成り立つための前提"
+  },
+  {
+    "word": "이해",
+    "jp_word": "理解",
+    "jp_meaning": "内容をよくわかること"
+  },
+  {
+    "word": "연락",
+    "jp_word": "連絡",
+    "jp_meaning": "相手に情報を伝えること"
+  },
+  {
+    "word": "변화",
+    "jp_word": "変化",
+    "jp_meaning": "何かが違ってくること"
+  },
+  {
+    "word": "관심",
+    "jp_word": "関心",
+    "jp_meaning": "興味を持つこと"
+  },
+  {
+    "word": "성공",
+    "jp_word": "成功",
+    "jp_meaning": "思ったとおりにうまくいくこと"
+  },
+  {
+    "word": "정보",
+    "jp_word": "情報",
+    "jp_meaning": "知っておくべき内容"
+  },
+  {
+    "word": "문제",
+    "jp_word": "問題",
+    "jp_meaning": "解決しなければならないこと"
+  },
+  {
+    "word": "기억",
+    "jp_word": "記憶",
+    "jp_meaning": "覚えていること"
+  },
+  {
+    "word": "경험",
+    "jp_word": "経験",
+    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+  },
+  {
+    "word": "결정",
+    "jp_word": "決定",
+    "jp_meaning": "あることをすることに決めること"
+  },
+  {
+    "word": "관계",
+    "jp_word": "関係",
+    "jp_meaning": "人や物の間のつながり"
+  },
+  {
+    "word": "생활",
+    "jp_word": "生活",
+    "jp_meaning": "毎日の暮らし"
+  },
+  {
+    "word": "실패",
+    "jp_word": "失敗",
+    "jp_meaning": "うまくいかないこと"
+  },
+  {
+    "word": "예정",
+    "jp_word": "予定",
+    "jp_meaning": "これからすることに決めたこと"
+  },
+  {
+    "word": "자료",
+    "jp_word": "資料",
+    "jp_meaning": "参考になる情報やデータ"
+  },
+  {
+    "word": "자신감",
+    "jp_word": "自信",
+    "jp_meaning": "自分を信じる気持ち"
+  },
+  {
+    "word": "행동",
+    "jp_word": "行動",
+    "jp_meaning": "実際に何かをすること"
+  },
+  {
+    "word": "발전",
+    "jp_word": "発展",
+    "jp_meaning": "物事がよくなっていくこと"
+  },
+  {
+    "word": "능력",
+    "jp_word": "能力",
+    "jp_meaning": "物事をうまくやる力"
+  },
+  {
+    "word": "조건",
+    "jp_word": "条件",
+    "jp_meaning": "あることが成り立つための前提"
+  },
+  {
+    "word": "이해",
+    "jp_word": "理解",
+    "jp_meaning": "内容をよくわかること"
+  },
+  {
+    "word": "연락",
+    "jp_word": "連絡",
+    "jp_meaning": "相手に情報を伝えること"
+  },
+  {
+    "word": "변화",
+    "jp_word": "変化",
+    "jp_meaning": "何かが違ってくること"
+  },
+  {
+    "word": "관심",
+    "jp_word": "関心",
+    "jp_meaning": "興味を持つこと"
+  },
+  {
+    "word": "성공",
+    "jp_word": "成功",
+    "jp_meaning": "思ったとおりにうまくいくこと"
+  },
+  {
+    "word": "정보",
+    "jp_word": "情報",
+    "jp_meaning": "知っておくべき内容"
+  },
+  {
+    "word": "문제",
+    "jp_word": "問題",
+    "jp_meaning": "解決しなければならないこと"
+  },
+  {
+    "word": "기억",
+    "jp_word": "記憶",
+    "jp_meaning": "覚えていること"
+  },
+  {
+    "word": "경험",
+    "jp_word": "経験",
+    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+  },
+  {
+    "word": "결정",
+    "jp_word": "決定",
+    "jp_meaning": "あることをすることに決めること"
+  },
+  {
+    "word": "관계",
+    "jp_word": "関係",
+    "jp_meaning": "人や物の間のつながり"
+  },
+  {
+    "word": "생활",
+    "jp_word": "生活",
+    "jp_meaning": "毎日の暮らし"
+  },
+  {
+    "word": "실패",
+    "jp_word": "失敗",
+    "jp_meaning": "うまくいかないこと"
+  },
+  {
+    "word": "예정",
+    "jp_word": "予定",
+    "jp_meaning": "これからすることに決めたこと"
+  },
+  {
+    "word": "자료",
+    "jp_word": "資料",
+    "jp_meaning": "参考になる情報やデータ"
+  },
+  {
+    "word": "자신감",
+    "jp_word": "自信",
+    "jp_meaning": "自分を信じる気持ち"
+  },
+  {
+    "word": "행동",
+    "jp_word": "行動",
+    "jp_meaning": "実際に何かをすること"
+  },
+  {
+    "word": "발전",
+    "jp_word": "発展",
+    "jp_meaning": "物事がよくなっていくこと"
+  },
+  {
+    "word": "능력",
+    "jp_word": "能力",
+    "jp_meaning": "物事をうまくやる力"
+  },
+  {
+    "word": "조건",
+    "jp_word": "条件",
+    "jp_meaning": "あることが成り立つための前提"
+  },
+  {
+    "word": "이해",
+    "jp_word": "理解",
+    "jp_meaning": "内容をよくわかること"
+  },
+  {
+    "word": "연락",
+    "jp_word": "連絡",
+    "jp_meaning": "相手に情報を伝えること"
+  },
+  {
+    "word": "변화",
+    "jp_word": "変化",
+    "jp_meaning": "何かが違ってくること"
+  },
+  {
+    "word": "관심",
+    "jp_word": "関心",
+    "jp_meaning": "興味を持つこと"
+  },
+  {
+    "word": "성공",
+    "jp_word": "成功",
+    "jp_meaning": "思ったとおりにうまくいくこと"
+  },
+  {
+    "word": "정보",
+    "jp_word": "情報",
+    "jp_meaning": "知っておくべき内容"
+  },
+  {
+    "word": "문제",
+    "jp_word": "問題",
+    "jp_meaning": "解決しなければならないこと"
+  },
+  {
+    "word": "기억",
+    "jp_word": "記憶",
+    "jp_meaning": "覚えていること"
+  },
+  {
+    "word": "경험",
+    "jp_word": "経験",
+    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+  },
+  {
+    "word": "결정",
+    "jp_word": "決定",
+    "jp_meaning": "あることをすることに決めること"
+  },
+  {
+    "word": "관계",
+    "jp_word": "関係",
+    "jp_meaning": "人や物の間のつながり"
+  },
+  {
+    "word": "생활",
+    "jp_word": "生活",
+    "jp_meaning": "毎日の暮らし"
+  },
+  {
+    "word": "실패",
+    "jp_word": "失敗",
+    "jp_meaning": "うまくいかないこと"
+  },
+  {
+    "word": "예정",
+    "jp_word": "予定",
+    "jp_meaning": "これからすることに決めたこと"
+  },
+  {
+    "word": "자료",
+    "jp_word": "資料",
+    "jp_meaning": "参考になる情報やデータ"
+  },
+  {
+    "word": "자신감",
+    "jp_word": "自信",
+    "jp_meaning": "自分を信じる気持ち"
+  },
+  {
+    "word": "행동",
+    "jp_word": "行動",
+    "jp_meaning": "実際に何かをすること"
+  },
+  {
+    "word": "발전",
+    "jp_word": "発展",
+    "jp_meaning": "物事がよくなっていくこと"
+  },
+  {
+    "word": "능력",
+    "jp_word": "能力",
+    "jp_meaning": "物事をうまくやる力"
+  },
+  {
+    "word": "조건",
+    "jp_word": "条件",
+    "jp_meaning": "あることが成り立つための前提"
+  },
+  {
+    "word": "이해",
+    "jp_word": "理解",
+    "jp_meaning": "内容をよくわかること"
+  },
+  {
+    "word": "연락",
+    "jp_word": "連絡",
+    "jp_meaning": "相手に情報を伝えること"
+  },
+  {
+    "word": "변화",
+    "jp_word": "変化",
+    "jp_meaning": "何かが違ってくること"
+  },
+  {
+    "word": "관심",
+    "jp_word": "関心",
+    "jp_meaning": "興味を持つこと"
+  },
+  {
+    "word": "성공",
+    "jp_word": "成功",
+    "jp_meaning": "思ったとおりにうまくいくこと"
+  },
+  {
+    "word": "정보",
+    "jp_word": "情報",
+    "jp_meaning": "知っておくべき内容"
+  },
+  {
+    "word": "문제",
+    "jp_word": "問題",
+    "jp_meaning": "解決しなければならないこと"
+  },
+  {
+    "word": "기억",
+    "jp_word": "記憶",
+    "jp_meaning": "覚えていること"
+  },
+  {
+    "word": "경험",
+    "jp_word": "経験",
+    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+  },
+  {
+    "word": "결정",
+    "jp_word": "決定",
+    "jp_meaning": "あることをすることに決めること"
+  },
+  {
+    "word": "관계",
+    "jp_word": "関係",
+    "jp_meaning": "人や物の間のつながり"
+  },
+  {
+    "word": "생활",
+    "jp_word": "生活",
+    "jp_meaning": "毎日の暮らし"
+  },
+  {
+    "word": "실패",
+    "jp_word": "失敗",
+    "jp_meaning": "うまくいかないこと"
+  },
+  {
+    "word": "예정",
+    "jp_word": "予定",
+    "jp_meaning": "これからすることに決めたこと"
+  },
+  {
+    "word": "자료",
+    "jp_word": "資料",
+    "jp_meaning": "参考になる情報やデータ"
+  },
+  {
+    "word": "자신감",
+    "jp_word": "自信",
+    "jp_meaning": "自分を信じる気持ち"
+  },
+  {
+    "word": "행동",
+    "jp_word": "行動",
+    "jp_meaning": "実際に何かをすること"
+  },
+  {
+    "word": "발전",
+    "jp_word": "発展",
+    "jp_meaning": "物事がよくなっていくこと"
+  },
+  {
+    "word": "능력",
+    "jp_word": "能力",
+    "jp_meaning": "物事をうまくやる力"
+  },
+  {
+    "word": "조건",
+    "jp_word": "条件",
+    "jp_meaning": "あることが成り立つための前提"
+  },
+  {
+    "word": "이해",
+    "jp_word": "理解",
+    "jp_meaning": "内容をよくわかること"
+  },
+  {
+    "word": "연락",
+    "jp_word": "連絡",
+    "jp_meaning": "相手に情報を伝えること"
+  },
+  {
+    "word": "변화",
+    "jp_word": "変化",
+    "jp_meaning": "何かが違ってくること"
+  },
+  {
+    "word": "관심",
+    "jp_word": "関心",
+    "jp_meaning": "興味を持つこと"
+  },
+  {
+    "word": "성공",
+    "jp_word": "成功",
+    "jp_meaning": "思ったとおりにうまくいくこと"
+  },
+  {
+    "word": "정보",
+    "jp_word": "情報",
+    "jp_meaning": "知っておくべき内容"
+  },
+  {
+    "word": "문제",
+    "jp_word": "問題",
+    "jp_meaning": "解決しなければならないこと"
+  },
+  {
+    "word": "기억",
+    "jp_word": "記憶",
+    "jp_meaning": "覚えていること"
+  },
+  {
+    "word": "경험",
+    "jp_word": "経験",
+    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+  },
+  {
+    "word": "결정",
+    "jp_word": "決定",
+    "jp_meaning": "あることをすることに決めること"
+  },
+  {
+    "word": "관계",
+    "jp_word": "関係",
+    "jp_meaning": "人や物の間のつながり"
+  },
+  {
+    "word": "생활",
+    "jp_word": "生活",
+    "jp_meaning": "毎日の暮らし"
+  },
+  {
+    "word": "실패",
+    "jp_word": "失敗",
+    "jp_meaning": "うまくいかないこと"
+  },
+  {
+    "word": "예정",
+    "jp_word": "予定",
+    "jp_meaning": "これからすることに決めたこと"
+  },
+  {
+    "word": "자료",
+    "jp_word": "資料",
+    "jp_meaning": "参考になる情報やデータ"
+  },
+  {
+    "word": "자신감",
+    "jp_word": "自信",
+    "jp_meaning": "自分を信じる気持ち"
+  },
+  {
+    "word": "행동",
+    "jp_word": "行動",
+    "jp_meaning": "実際に何かをすること"
+  },
+  {
+    "word": "발전",
+    "jp_word": "発展",
+    "jp_meaning": "物事がよくなっていくこと"
+  },
+  {
+    "word": "능력",
+    "jp_word": "能力",
+    "jp_meaning": "物事をうまくやる力"
+  },
+  {
+    "word": "조건",
+    "jp_word": "条件",
+    "jp_meaning": "あることが成り立つための前提"
+  },
+  {
+    "word": "이해",
+    "jp_word": "理解",
+    "jp_meaning": "内容をよくわかること"
+  },
+  {
+    "word": "연락",
+    "jp_word": "連絡",
+    "jp_meaning": "相手に情報を伝えること"
+  },
+  {
+    "word": "변화",
+    "jp_word": "変化",
+    "jp_meaning": "何かが違ってくること"
+  },
+  {
+    "word": "관심",
+    "jp_word": "関心",
+    "jp_meaning": "興味を持つこと"
+  },
+  {
+    "word": "성공",
+    "jp_word": "成功",
+    "jp_meaning": "思ったとおりにうまくいくこと"
+  },
+  {
+    "word": "정보",
+    "jp_word": "情報",
+    "jp_meaning": "知っておくべき内容"
+  },
+  {
+    "word": "문제",
+    "jp_word": "問題",
+    "jp_meaning": "解決しなければならないこと"
+  },
+  {
+    "word": "기억",
+    "jp_word": "記憶",
+    "jp_meaning": "覚えていること"
+  },
+  {
+    "word": "경험",
+    "jp_word": "経験",
+    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+  },
+  {
+    "word": "결정",
+    "jp_word": "決定",
+    "jp_meaning": "あることをすることに決めること"
+  },
+  {
+    "word": "관계",
+    "jp_word": "関係",
+    "jp_meaning": "人や物の間のつながり"
+  },
+  {
+    "word": "생활",
+    "jp_word": "生活",
+    "jp_meaning": "毎日の暮らし"
+  },
+  {
+    "word": "실패",
+    "jp_word": "失敗",
+    "jp_meaning": "うまくいかないこと"
+  },
+  {
+    "word": "예정",
+    "jp_word": "予定",
+    "jp_meaning": "これからすることに決めたこと"
+  },
+  {
+    "word": "자료",
+    "jp_word": "資料",
+    "jp_meaning": "参考になる情報やデータ"
+  },
+  {
+    "word": "자신감",
+    "jp_word": "自信",
+    "jp_meaning": "自分を信じる気持ち"
+  },
+  {
+    "word": "행동",
+    "jp_word": "行動",
+    "jp_meaning": "実際に何かをすること"
+  },
+  {
+    "word": "발전",
+    "jp_word": "発展",
+    "jp_meaning": "物事がよくなっていくこと"
+  },
+  {
+    "word": "능력",
+    "jp_word": "能力",
+    "jp_meaning": "物事をうまくやる力"
+  },
+  {
+    "word": "조건",
+    "jp_word": "条件",
+    "jp_meaning": "あることが成り立つための前提"
+  },
+  {
+    "word": "이해",
+    "jp_word": "理解",
+    "jp_meaning": "内容をよくわかること"
+  },
+  {
+    "word": "연락",
+    "jp_word": "連絡",
+    "jp_meaning": "相手に情報を伝えること"
+  },
+  {
+    "word": "변화",
+    "jp_word": "変化",
+    "jp_meaning": "何かが違ってくること"
+  },
+  {
+    "word": "관심",
+    "jp_word": "関心",
+    "jp_meaning": "興味を持つこと"
+  },
+  {
+    "word": "성공",
+    "jp_word": "成功",
+    "jp_meaning": "思ったとおりにうまくいくこと"
+  },
+  {
+    "word": "정보",
+    "jp_word": "情報",
+    "jp_meaning": "知っておくべき内容"
+  },
+  {
+    "word": "문제",
+    "jp_word": "問題",
+    "jp_meaning": "解決しなければならないこと"
+  },
+  {
+    "word": "기억",
+    "jp_word": "記憶",
+    "jp_meaning": "覚えていること"
+  },
+  {
+    "word": "경험",
+    "jp_word": "経験",
+    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+  },
+  {
+    "word": "결정",
+    "jp_word": "決定",
+    "jp_meaning": "あることをすることに決めること"
+  },
+  {
+    "word": "관계",
+    "jp_word": "関係",
+    "jp_meaning": "人や物の間のつながり"
+  },
+  {
+    "word": "생활",
+    "jp_word": "生活",
+    "jp_meaning": "毎日の暮らし"
+  },
+  {
+    "word": "실패",
+    "jp_word": "失敗",
+    "jp_meaning": "うまくいかないこと"
+  },
+  {
+    "word": "예정",
+    "jp_word": "予定",
+    "jp_meaning": "これからすることに決めたこと"
+  },
+  {
+    "word": "자료",
+    "jp_word": "資料",
+    "jp_meaning": "参考になる情報やデータ"
+  },
+  {
+    "word": "자신감",
+    "jp_word": "自信",
+    "jp_meaning": "自分を信じる気持ち"
+  },
+  {
+    "word": "행동",
+    "jp_word": "行動",
+    "jp_meaning": "実際に何かをすること"
+  },
+  {
+    "word": "발전",
+    "jp_word": "発展",
+    "jp_meaning": "物事がよくなっていくこと"
+  },
+  {
+    "word": "능력",
+    "jp_word": "能力",
+    "jp_meaning": "物事をうまくやる力"
+  },
+  {
+    "word": "조건",
+    "jp_word": "条件",
+    "jp_meaning": "あることが成り立つための前提"
+  },
+  {
+    "word": "이해",
+    "jp_word": "理解",
+    "jp_meaning": "内容をよくわかること"
+  },
+  {
+    "word": "연락",
+    "jp_word": "連絡",
+    "jp_meaning": "相手に情報を伝えること"
+  },
+  {
+    "word": "변화",
+    "jp_word": "変化",
+    "jp_meaning": "何かが違ってくること"
+  },
+  {
+    "word": "관심",
+    "jp_word": "関心",
+    "jp_meaning": "興味を持つこと"
+  },
+  {
+    "word": "성공",
+    "jp_word": "成功",
+    "jp_meaning": "思ったとおりにうまくいくこと"
+  },
+  {
+    "word": "정보",
+    "jp_word": "情報",
+    "jp_meaning": "知っておくべき内容"
+  },
+  {
+    "word": "문제",
+    "jp_word": "問題",
+    "jp_meaning": "解決しなければならないこと"
+  },
+  {
+    "word": "기억",
+    "jp_word": "記憶",
+    "jp_meaning": "覚えていること"
+  },
+  {
+    "word": "경험",
+    "jp_word": "経験",
+    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+  },
+  {
+    "word": "결정",
+    "jp_word": "決定",
+    "jp_meaning": "あることをすることに決めること"
+  },
+  {
+    "word": "관계",
+    "jp_word": "関係",
+    "jp_meaning": "人や物の間のつながり"
+  },
+  {
+    "word": "생활",
+    "jp_word": "生活",
+    "jp_meaning": "毎日の暮らし"
+  },
+  {
+    "word": "실패",
+    "jp_word": "失敗",
+    "jp_meaning": "うまくいかないこと"
+  },
+  {
+    "word": "예정",
+    "jp_word": "予定",
+    "jp_meaning": "これからすることに決めたこと"
+  },
+  {
+    "word": "자료",
+    "jp_word": "資料",
+    "jp_meaning": "参考になる情報やデータ"
+  },
+  {
+    "word": "자신감",
+    "jp_word": "自信",
+    "jp_meaning": "自分を信じる気持ち"
+  },
+  {
+    "word": "행동",
+    "jp_word": "行動",
+    "jp_meaning": "実際に何かをすること"
+  },
+  {
+    "word": "발전",
+    "jp_word": "発展",
+    "jp_meaning": "物事がよくなっていくこと"
+  },
+  {
+    "word": "능력",
+    "jp_word": "能力",
+    "jp_meaning": "物事をうまくやる力"
+  },
+  {
+    "word": "조건",
+    "jp_word": "条件",
+    "jp_meaning": "あることが成り立つための前提"
+  },
+  {
+    "word": "이해",
+    "jp_word": "理解",
+    "jp_meaning": "内容をよくわかること"
+  },
+  {
+    "word": "연락",
+    "jp_word": "連絡",
+    "jp_meaning": "相手に情報を伝えること"
+  },
+  {
+    "word": "변화",
+    "jp_word": "変化",
+    "jp_meaning": "何かが違ってくること"
+  },
+  {
+    "word": "관심",
+    "jp_word": "関心",
+    "jp_meaning": "興味を持つこと"
+  },
+  {
+    "word": "성공",
+    "jp_word": "成功",
+    "jp_meaning": "思ったとおりにうまくいくこと"
+  },
+  {
+    "word": "정보",
+    "jp_word": "情報",
+    "jp_meaning": "知っておくべき内容"
+  },
+  {
+    "word": "문제",
+    "jp_word": "問題",
+    "jp_meaning": "解決しなければならないこと"
+  },
+  {
+    "word": "기억",
+    "jp_word": "記憶",
+    "jp_meaning": "覚えていること"
+  },
+  {
+    "word": "경험",
+    "jp_word": "経験",
+    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+  },
+  {
+    "word": "결정",
+    "jp_word": "決定",
+    "jp_meaning": "あることをすることに決めること"
+  },
+  {
+    "word": "관계",
+    "jp_word": "関係",
+    "jp_meaning": "人や物の間のつながり"
+  },
+  {
+    "word": "생활",
+    "jp_word": "生活",
+    "jp_meaning": "毎日の暮らし"
+  },
+  {
+    "word": "실패",
+    "jp_word": "失敗",
+    "jp_meaning": "うまくいかないこと"
+  },
+  {
+    "word": "예정",
+    "jp_word": "予定",
+    "jp_meaning": "これからすることに決めたこと"
+  },
+  {
+    "word": "자료",
+    "jp_word": "資料",
+    "jp_meaning": "参考になる情報やデータ"
+  },
+  {
+    "word": "자신감",
+    "jp_word": "自信",
+    "jp_meaning": "自分を信じる気持ち"
+  },
+  {
+    "word": "행동",
+    "jp_word": "行動",
+    "jp_meaning": "実際に何かをすること"
+  },
+  {
+    "word": "발전",
+    "jp_word": "発展",
+    "jp_meaning": "物事がよくなっていくこと"
+  },
+  {
+    "word": "능력",
+    "jp_word": "能力",
+    "jp_meaning": "物事をうまくやる力"
+  },
+  {
+    "word": "조건",
+    "jp_word": "条件",
+    "jp_meaning": "あることが成り立つための前提"
+  },
+  {
+    "word": "이해",
+    "jp_word": "理解",
+    "jp_meaning": "内容をよくわかること"
+  },
+  {
+    "word": "연락",
+    "jp_word": "連絡",
+    "jp_meaning": "相手に情報を伝えること"
+  },
+  {
+    "word": "변화",
+    "jp_word": "変化",
+    "jp_meaning": "何かが違ってくること"
+  },
+  {
+    "word": "관심",
+    "jp_word": "関心",
+    "jp_meaning": "興味を持つこと"
+  },
+  {
+    "word": "성공",
+    "jp_word": "成功",
+    "jp_meaning": "思ったとおりにうまくいくこと"
+  },
+  {
+    "word": "정보",
+    "jp_word": "情報",
+    "jp_meaning": "知っておくべき内容"
+  },
+  {
+    "word": "문제",
+    "jp_word": "問題",
+    "jp_meaning": "解決しなければならないこと"
+  },
+  {
+    "word": "기억",
+    "jp_word": "記憶",
+    "jp_meaning": "覚えていること"
+  },
+  {
+    "word": "경험",
+    "jp_word": "経験",
+    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+  },
+  {
+    "word": "결정",
+    "jp_word": "決定",
+    "jp_meaning": "あることをすることに決めること"
+  },
+  {
+    "word": "관계",
+    "jp_word": "関係",
+    "jp_meaning": "人や物の間のつながり"
+  },
+  {
+    "word": "생활",
+    "jp_word": "生活",
+    "jp_meaning": "毎日の暮らし"
+  },
+  {
+    "word": "실패",
+    "jp_word": "失敗",
+    "jp_meaning": "うまくいかないこと"
+  },
+  {
+    "word": "예정",
+    "jp_word": "予定",
+    "jp_meaning": "これからすることに決めたこと"
+  },
+  {
+    "word": "자료",
+    "jp_word": "資料",
+    "jp_meaning": "参考になる情報やデータ"
+  },
+  {
+    "word": "자신감",
+    "jp_word": "自信",
+    "jp_meaning": "自分を信じる気持ち"
+  },
+  {
+    "word": "행동",
+    "jp_word": "行動",
+    "jp_meaning": "実際に何かをすること"
+  },
+  {
+    "word": "발전",
+    "jp_word": "発展",
+    "jp_meaning": "物事がよくなっていくこと"
+  },
+  {
+    "word": "능력",
+    "jp_word": "能力",
+    "jp_meaning": "物事をうまくやる力"
+  },
+  {
+    "word": "조건",
+    "jp_word": "条件",
+    "jp_meaning": "あることが成り立つための前提"
+  },
+  {
+    "word": "이해",
+    "jp_word": "理解",
+    "jp_meaning": "内容をよくわかること"
+  },
+  {
+    "word": "연락",
+    "jp_word": "連絡",
+    "jp_meaning": "相手に情報を伝えること"
+  },
+  {
+    "word": "변화",
+    "jp_word": "変化",
+    "jp_meaning": "何かが違ってくること"
+  },
+  {
+    "word": "관심",
+    "jp_word": "関心",
+    "jp_meaning": "興味を持つこと"
+  },
+  {
+    "word": "성공",
+    "jp_word": "成功",
+    "jp_meaning": "思ったとおりにうまくいくこと"
+  },
+  {
+    "word": "정보",
+    "jp_word": "情報",
+    "jp_meaning": "知っておくべき内容"
+  },
+  {
+    "word": "문제",
+    "jp_word": "問題",
+    "jp_meaning": "解決しなければならないこと"
+  },
+  {
+    "word": "기억",
+    "jp_word": "記憶",
+    "jp_meaning": "覚えていること"
+  },
+  {
+    "word": "경험",
+    "jp_word": "経験",
+    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+  },
+  {
+    "word": "결정",
+    "jp_word": "決定",
+    "jp_meaning": "あることをすることに決めること"
+  },
+  {
+    "word": "관계",
+    "jp_word": "関係",
+    "jp_meaning": "人や物の間のつながり"
+  },
+  {
+    "word": "생활",
+    "jp_word": "生活",
+    "jp_meaning": "毎日の暮らし"
+  },
+  {
+    "word": "실패",
+    "jp_word": "失敗",
+    "jp_meaning": "うまくいかないこと"
+  },
+  {
+    "word": "예정",
+    "jp_word": "予定",
+    "jp_meaning": "これからすることに決めたこと"
+  },
+  {
+    "word": "자료",
+    "jp_word": "資料",
+    "jp_meaning": "参考になる情報やデータ"
+  },
+  {
+    "word": "자신감",
+    "jp_word": "自信",
+    "jp_meaning": "自分を信じる気持ち"
+  },
+  {
+    "word": "행동",
+    "jp_word": "行動",
+    "jp_meaning": "実際に何かをすること"
+  },
+  {
+    "word": "발전",
+    "jp_word": "発展",
+    "jp_meaning": "物事がよくなっていくこと"
+  },
+  {
+    "word": "능력",
+    "jp_word": "能力",
+    "jp_meaning": "物事をうまくやる力"
+  },
+  {
+    "word": "조건",
+    "jp_word": "条件",
+    "jp_meaning": "あることが成り立つための前提"
+  },
+  {
+    "word": "이해",
+    "jp_word": "理解",
+    "jp_meaning": "内容をよくわかること"
+  },
+  {
+    "word": "연락",
+    "jp_word": "連絡",
+    "jp_meaning": "相手に情報を伝えること"
+  },
+  {
+    "word": "변화",
+    "jp_word": "変化",
+    "jp_meaning": "何かが違ってくること"
+  },
+  {
+    "word": "관심",
+    "jp_word": "関心",
+    "jp_meaning": "興味を持つこと"
+  },
+  {
+    "word": "성공",
+    "jp_word": "成功",
+    "jp_meaning": "思ったとおりにうまくいくこと"
+  },
+  {
+    "word": "정보",
+    "jp_word": "情報",
+    "jp_meaning": "知っておくべき内容"
+  },
+  {
+    "word": "문제",
+    "jp_word": "問題",
+    "jp_meaning": "解決しなければならないこと"
+  },
+  {
+    "word": "기억",
+    "jp_word": "記憶",
+    "jp_meaning": "覚えていること"
   }
 ]
