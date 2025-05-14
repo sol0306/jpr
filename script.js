@@ -1,6 +1,7 @@
 let words = [];
 let timer = 0;
 let stopwatchInterval;
+let lastWord = null;
 
 fetch('words.json')
   .then(response => response.json())
@@ -16,11 +17,19 @@ function startApp() {
 
 function generateWord() {
   if (words.length === 0) return;
-  const random = words[Math.floor(Math.random() * words.length)];
-  document.getElementById("word_display").innerText = `단어: ${random.word}`;
-  document.getElementById("ko_word").innerText = random.ko_word;
-  document.getElementById("ko_meaning").innerText = random.jp_meaning;
 
+  let random;
+  do {
+    random = words[Math.floor(Math.random() * words.length)];
+  } while (random.word === lastWord?.word); // 중복 방지
+
+  lastWord = random;
+
+  document.getElementById("word_display").innerText = `単語: ${random.word}`;
+  document.getElementById("jp_word").innerText = random.ko_word;
+  document.getElementById("jp_meaning").innerText = random.ko_meaning;
+
+  // UI 초기화
   document.getElementById("jp_display").style.display = "none";
   document.getElementById("meaning_display").style.display = "none";
 
@@ -29,9 +38,10 @@ function generateWord() {
   document.getElementById("btn_next").style.display = "none";
   document.getElementById("btn_stop").style.display = "none";
 
+  // 스톱워치 초기화
   clearInterval(stopwatchInterval);
   timer = 0;
-  document.getElementById("stopwatch").innerText = "스톱워치: 00:00";
+  document.getElementById("stopwatch").innerText = "タイマー: 00:00";
   stopwatchInterval = setInterval(updateStopwatch, 1000);
 }
 
@@ -56,5 +66,5 @@ function updateStopwatch() {
   timer++;
   const minutes = String(Math.floor(timer / 60)).padStart(2, '0');
   const seconds = String(timer % 60).padStart(2, '0');
-  document.getElementById("stopwatch").innerText = `스톱워치: ${minutes}:${seconds}`;
+  document.getElementById("stopwatch").innerText = `タイマー: ${minutes}:${seconds}`;
 }
