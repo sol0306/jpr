@@ -1,0 +1,1497 @@
+[
+  {
+    "word": "使用",
+    "ko_word": "사용",
+    "ko_meaning": "어떤 것을 쓰는 행위"
+  },
+  {
+    "word": "失敗",
+    "ko_word": "실패",
+    "ko_meaning": "원하는 결과를 얻지 못하는 것"
+  },
+  {
+    "word": "集中",
+    "ko_word": "집중",
+    "ko_meaning": "한 가지에 온 정신을 쏟는 것"
+  },
+  {
+    "word": "資料",
+    "ko_word": "자료",
+    "ko_meaning": "정보를 담고 있는 문서나 데이터"
+  },
+  {
+    "word": "発展",
+    "ko_word": "발전",
+    "ko_meaning": "더 나은 방향으로 나아가는 것"
+  },
+  {
+    "word": "学習",
+    "ko_word": "학습",
+    "ko_meaning": "배우고 익히는 과정"
+  },
+  {
+    "word": "理解力",
+    "ko_word": "이해력",
+    "ko_meaning": "이해하는 능력"
+  },
+  {
+    "word": "説明書",
+    "ko_word": "설명서",
+    "ko_meaning": "설명을 적은 문서"
+  },
+  {
+    "word": "感謝",
+    "ko_word": "감사",
+    "ko_meaning": "고마운 마음"
+  },
+  {
+    "word": "記憶",
+    "ko_word": "기억",
+    "ko_meaning": "겪은 일이나 정보를 머릿속에 남기는 것"
+  },
+  {
+    "word": "説明力",
+    "ko_word": "설명력",
+    "ko_meaning": "잘 설명하는 능력"
+  },
+  {
+    "word": "解決",
+    "ko_word": "해결",
+    "ko_meaning": "문제를 풀거나 정리하는 것"
+  },
+  {
+    "word": "能力",
+    "ko_word": "능력",
+    "ko_meaning": "어떤 일을 해낼 수 있는 힘"
+  },
+  {
+    "word": "自信",
+    "ko_word": "자신감",
+    "ko_meaning": "자기 자신을 믿는 마음"
+  },
+  {
+    "word": "理解",
+    "ko_word": "이해",
+    "ko_meaning": "내용을 정확하게 아는 것"
+  },
+  {
+    "word": "成功",
+    "ko_word": "성공",
+    "ko_meaning": "목표한 것을 이루는 것"
+  },
+  {
+    "word": "説明",
+    "ko_word": "설명",
+    "ko_meaning": "알기 쉽게 말하거나 쓰는 것"
+  },
+  {
+    "word": "予定",
+    "ko_word": "예정",
+    "ko_meaning": "앞으로 할 일을 미리 정하는 것"
+  },
+  {
+    "word": "行動",
+    "ko_word": "행동",
+    "ko_meaning": "어떤 목적을 가지고 움직이는 것"
+  },
+  {
+    "word": "確認",
+    "ko_word": "확인",
+    "ko_meaning": "틀림없는지 다시 한 번 살펴보는 것"
+  },
+  {
+    "word": "返事",
+    "ko_word": "대답",
+    "ko_meaning": "물음에 대해 응답하는 것"
+  },
+  {
+    "word": "期待",
+    "ko_word": "기대",
+    "ko_meaning": "무언가가 잘 되기를 바라는 마음"
+  },
+  {
+    "word": "反応",
+    "ko_word": "반응",
+    "ko_meaning": "자극에 대해 반응하는 것"
+  },
+  {
+    "word": "結果",
+    "ko_word": "결과",
+    "ko_meaning": "어떤 일이 끝난 뒤 나타나는 상태"
+  },
+  {
+    "word": "準備",
+    "ko_word": "준비",
+    "ko_meaning": "무언가를 미리 갖추는 것"
+  },
+  {
+    "word": "感情",
+    "ko_word": "감정",
+    "ko_meaning": "느낌이나 기분"
+  },
+  {
+    "word": "発見",
+    "ko_word": "발견",
+    "ko_meaning": "새롭게 알게 되는 것"
+  },
+  {
+    "word": "関係",
+    "ko_word": "관계",
+    "ko_meaning": "사람이나 사물 사이의 연결"
+  },
+  {
+    "word": "表情",
+    "ko_word": "표정",
+    "ko_meaning": "얼굴에 드러나는 감정"
+  },
+  {
+    "word": "変更",
+    "ko_word": "변경",
+    "ko_meaning": "기존의 것을 바꾸는 것"
+  },
+  {
+    "word": "記録",
+    "ko_word": "기록",
+    "ko_meaning": "사실이나 내용을 적어두는 것"
+  },
+  {
+    "word": "約束",
+    "ko_word": "약속",
+    "ko_meaning": "미리 정한 사항"
+  },
+  {
+    "word": "出発",
+    "ko_word": "출발",
+    "ko_meaning": "어디론가 떠남"
+  },
+  {
+    "word": "連絡",
+    "ko_word": "연락",
+    "ko_meaning": "정보나 소식을 전하는 것"
+  },
+  {
+    "word": "変化",
+    "ko_word": "변화",
+    "ko_meaning": "상태나 모양이 달라지는 것"
+  },
+  {
+    "word": "関心",
+    "ko_word": "관심",
+    "ko_meaning": "어떤 것에 흥미나 주의를 가지는 것"
+  },
+  {
+    "word": "練習",
+    "ko_word": "연습",
+    "ko_meaning": "반복하여 익히는 것"
+  },
+  {
+    "word": "条件",
+    "ko_word": "조건",
+    "ko_meaning": "어떤 것이 성립되기 위한 전제"
+  },
+  {
+    "word": "挑戦",
+    "ko_word": "도전",
+    "ko_meaning": "어려운 일에 맞서 시도하는 것"
+  },
+  {
+    "word": "生活",
+    "ko_word": "생활",
+    "ko_meaning": "일상에서 살아가는 행위나 상태"
+  },
+  {
+    "word": "必要",
+    "ko_word": "필요",
+    "ko_meaning": "반드시 있어야 함"
+  },
+  {
+    "word": "表現",
+    "ko_word": "표현",
+    "ko_meaning": "생각이나 감정을 나타내는 방법"
+  },
+  {
+    "word": "経験",
+    "ko_word": "경험",
+    "ko_meaning": "스스로 실제로 해 보거나 느껴 본 일"
+  },
+  {
+    "word": "決定",
+    "ko_word": "결정",
+    "ko_meaning": "무엇을 하기로 정하는 것"
+  },
+  {
+    "word": "情報",
+    "ko_word": "정보",
+    "ko_meaning": "어떤 사실이나 지식에 대한 내용"
+  },
+  {
+    "word": "整理",
+    "ko_word": "정리",
+    "ko_meaning": "정돈하거나 정해진 순서로 맞추는 것"
+  },
+  {
+    "word": "意見",
+    "ko_word": "의견",
+    "ko_meaning": "어떤 일에 대한 생각"
+  },
+  {
+    "word": "重要",
+    "ko_word": "중요",
+    "ko_meaning": "가장 필요하거나 큰 의미가 있는 상태"
+  },
+  {
+    "word": "選択",
+    "ko_word": "선택",
+    "ko_meaning": "여러 가지 중 하나를 고르는 것"
+  },
+  {
+    "word": "問題",
+    "ko_word": "문제",
+    "ko_meaning": "해결이 필요한 상황이나 일"
+  },
+  {
+    "word": "提案",
+    "ko_word": "제안",
+    "ko_meaning": "아이디어를 내는 것"
+  },
+  {
+    "word": "参加",
+    "ko_word": "참가",
+    "ko_meaning": "어떤 모임이나 행사에 들어가는 것"
+  },
+  {
+    "word": "感動",
+    "ko_word": "감동",
+    "ko_meaning": "마음이 깊이 움직이는 것"
+  },
+  {
+    "word": "責任",
+    "ko_word": "책임",
+    "ko_meaning": "맡은 일을 끝까지 해야 하는 의무"
+  },
+  {
+    "word": "手伝い",
+    "ko_word": "도움",
+    "ko_meaning": "다른 사람의 일을 거들어 주는 것"
+  },
+  {
+    "word": "希望",
+    "ko_word": "희망",
+    "ko_meaning": "바라고 원하는 마음"
+  },
+  {
+    "word": "安心",
+    "ko_word": "안심",
+    "ko_meaning": "걱정이 없어 마음이 놓임"
+  },
+  {
+    "word": "表面",
+    "ko_word": "표면",
+    "ko_meaning": "겉으로 드러난 부분"
+  },
+  {
+    "word": "深さ",
+    "ko_word": "깊이",
+    "ko_meaning": "아래로 내려간 정도"
+  },
+  {
+    "word": "変わり",
+    "ko_word": "변화",
+    "ko_meaning": "상태나 모습이 바뀐 것"
+  },
+  {
+    "word": "状況",
+    "ko_word": "상황",
+    "ko_meaning": "그때그때의 상태나 형편"
+  },
+  {
+    "word": "失礼",
+    "ko_word": "실례",
+    "ko_meaning": "예의에 어긋남"
+  },
+  {
+    "word": "発表",
+    "ko_word": "발표",
+    "ko_meaning": "알리거나 보이는 것"
+  },
+  {
+    "word": "優先",
+    "ko_word": "우선",
+    "ko_meaning": "다른 것보다 먼저 함"
+  },
+  {
+    "word": "予定表",
+    "ko_word": "일정표",
+    "ko_meaning": "예정된 일을 정리한 표"
+  },
+  {
+    "word": "信号",
+    "ko_word": "신호",
+    "ko_meaning": "의사 전달이나 지시를 위한 표시"
+  },
+  {
+    "word": "予想",
+    "ko_word": "예상",
+    "ko_meaning": "앞으로 일어날 일을 미리 생각하는 것"
+  },
+  {
+    "word": "心配",
+    "ko_word": "걱정",
+    "ko_meaning": "문제가 생길까 불안해하는 것"
+  },
+  {
+    "word": "記念",
+    "ko_word": "기념",
+    "ko_meaning": "특별한 일을 기억함"
+  },
+  {
+    "word": "方法",
+    "ko_word": "방법",
+    "ko_meaning": "무언가를 하는 방식"
+  },
+  {
+    "word": "参加者",
+    "ko_word": "참가자",
+    "ko_meaning": "행사 등에 참여한 사람"
+  },
+  {
+    "word": "確認書",
+    "ko_word": "확인서",
+    "ko_meaning": "사실을 확인한 문서"
+  },
+  {
+    "word": "出席",
+    "ko_word": "출석",
+    "ko_meaning": "모임이나 수업에 나감"
+  },
+  {
+    "word": "復習",
+    "ko_word": "복습",
+    "ko_meaning": "배운 내용을 다시 공부함"
+  },
+  {
+    "word": "計画",
+    "ko_word": "계획",
+    "ko_meaning": "앞으로 할 일을 미리 세움"
+  },
+  {
+    "word": "翻訳",
+    "ko_word": "번역",
+    "ko_meaning": "다른 언어로 바꾸어 표현함"
+  },
+  {
+    "word": "自分",
+    "ko_word": "자기",
+    "ko_meaning": "자기 자신"
+  },
+  {
+    "word": "利用",
+    "ko_word": "이용",
+    "ko_meaning": "무언가를 써서 이익을 얻음"
+  },
+  {
+    "word": "満足",
+    "ko_word": "만족",
+    "ko_meaning": "바라는 대로 되어 기쁨"
+  },
+  {
+    "word": "大切",
+    "ko_word": "소중함",
+    "ko_meaning": "잃으면 안 되는 귀중한 상태"
+  },
+  {
+    "word": "予定通り",
+    "ko_word": "예정대로",
+    "ko_meaning": "계획한 대로"
+  },
+  {
+    "word": "経験者",
+    "ko_word": "경험자",
+    "ko_meaning": "어떤 일을 해본 사람"
+  },
+  {
+    "word": "変化球",
+    "ko_word": "변화구",
+    "ko_meaning": "일반적인 것과 다른 방식의 접근"
+  },
+  {
+    "word": "復元",
+    "ko_word": "복원",
+    "ko_meaning": "원래 상태로 되돌림"
+  },
+  {
+    "word": "保証",
+    "ko_word": "보증",
+    "ko_meaning": "확실함을 책임지는 것"
+  },
+  {
+    "word": "実力",
+    "ko_word": "실력",
+    "ko_meaning": "실제 능력"
+  },
+  {
+    "word": "状況把握",
+    "ko_word": "상황 파악",
+    "ko_meaning": "지금 상태를 이해함"
+  },
+  {
+    "word": "想像",
+    "ko_word": "상상",
+    "ko_meaning": "머릿속으로 그려보는 것"
+  },
+  {
+    "word": "交流",
+    "ko_word": "교류",
+    "ko_meaning": "서로 주고받는 것"
+  },
+  {
+    "word": "分野",
+    "ko_word": "분야",
+    "ko_meaning": "특정한 활동이나 지식의 영역"
+  },
+  {
+    "word": "種類",
+    "ko_word": "종류",
+    "ko_meaning": "같은 분류에 속하는 무리"
+  },
+  {
+    "word": "手続き",
+    "ko_word": "절차",
+    "ko_meaning": "일을 진행하기 위한 순서"
+  },
+  {
+    "word": "費用",
+    "ko_word": "비용",
+    "ko_meaning": "무언가에 드는 돈"
+  },
+  {
+    "word": "距離",
+    "ko_word": "거리",
+    "ko_meaning": "두 지점 사이의 간격"
+  },
+  {
+    "word": "会話",
+    "ko_word": "대화",
+    "ko_meaning": "서로 말을 주고받는 것"
+  },
+  {
+    "word": "参加費",
+    "ko_word": "참가비",
+    "ko_meaning": "행사에 참여하기 위해 내는 돈"
+  },
+  {
+    "word": "失望",
+    "ko_word": "실망",
+    "ko_meaning": "기대가 무너져 낙심하는 것"
+  },
+  {
+    "word": "印象",
+    "ko_word": "인상",
+    "ko_meaning": "마음에 남는 느낌"
+  },
+  {
+    "word": "証明",
+    "ko_word": "증명",
+    "ko_meaning": "사실임을 밝힘"
+  },
+  {
+    "word": "常識",
+    "ko_word": "상식",
+    "ko_meaning": "일반적으로 아는 기본 지식"
+  },
+  {
+    "word": "割合",
+    "ko_word": "비율",
+    "ko_meaning": "전체에 대한 부분의 비중"
+  },
+  {
+    "word": "販売",
+    "ko_word": "판매",
+    "ko_meaning": "물건을 파는 것"
+  },
+  {
+    "word": "申請",
+    "ko_word": "신청",
+    "ko_meaning": "어떤 일을 요청함"
+  },
+  {
+    "word": "企業",
+    "ko_word": "기업",
+    "ko_meaning": "이익을 목적으로 한 회사나 조직"
+  },
+  {
+    "word": "感覚",
+    "ko_word": "감각",
+    "ko_meaning": "몸이나 마음으로 느끼는 능력"
+  },
+  {
+    "word": "内容",
+    "ko_word": "내용",
+    "ko_meaning": "어떤 것 안에 담긴 것"
+  },
+  {
+    "word": "目的",
+    "ko_word": "목적",
+    "ko_meaning": "어떤 행동을 하는 이유나 목표"
+  },
+  {
+    "word": "自然",
+    "ko_word": "자연",
+    "ko_meaning": "사람의 힘이 아닌 자연적인 것"
+  },
+  {
+    "word": "景色",
+    "ko_word": "경치",
+    "ko_meaning": "눈에 보이는 자연의 모습"
+  },
+  {
+    "word": "制度",
+    "ko_word": "제도",
+    "ko_meaning": "사회나 조직의 규칙적인 틀"
+  },
+  {
+    "word": "報告",
+    "ko_word": "보고",
+    "ko_meaning": "사실이나 결과를 알림"
+  },
+  {
+    "word": "変更点",
+    "ko_word": "변경점",
+    "ko_meaning": "바뀐 부분"
+  },
+  {
+    "word": "制度化",
+    "ko_word": "제도화",
+    "ko_meaning": "제도로 만드는 것"
+  },
+  {
+    "word": "会場",
+    "ko_word": "회장",
+    "ko_meaning": "행사가 열리는 장소"
+  },
+  {
+    "word": "地震",
+    "ko_word": "지진",
+    "ko_meaning": "지구가 흔들리는 자연 현상"
+  },
+  {
+    "word": "事件",
+    "ko_word": "사건",
+    "ko_meaning": "어떤 특별한 일"
+  },
+  {
+    "word": "発達",
+    "ko_word": "발달",
+    "ko_meaning": "자라나거나 발전하는 것"
+  },
+  {
+    "word": "施設",
+    "ko_word": "시설",
+    "ko_meaning": "특정 목적을 위해 만든 건물이나 장소"
+  },
+  {
+    "word": "作品",
+    "ko_word": "작품",
+    "ko_meaning": "창작된 물건이나 예술"
+  },
+  {
+    "word": "方法論",
+    "ko_word": "방법론",
+    "ko_meaning": "방법에 대한 체계적인 이론"
+  },
+  {
+    "word": "話題",
+    "ko_word": "화제",
+    "ko_meaning": "대화의 주제"
+  },
+  {
+    "word": "賞金",
+    "ko_word": "상금",
+    "ko_meaning": "상을 받을 때 주는 돈"
+  },
+  {
+    "word": "国際",
+    "ko_word": "국제",
+    "ko_meaning": "나라와 나라 사이의 관계"
+  },
+  {
+    "word": "文化",
+    "ko_word": "문화",
+    "ko_meaning": "사람들의 생활 방식과 생각"
+  },
+  {
+    "word": "理解者",
+    "ko_word": "이해자",
+    "ko_meaning": "이해하는 사람"
+  },
+  {
+    "word": "重要性",
+    "ko_word": "중요성",
+    "ko_meaning": "얼마나 중요한지의 정도"
+  },
+  {
+    "word": "責任感",
+    "ko_word": "책임감",
+    "ko_meaning": "책임을 다하려는 마음"
+  },
+  {
+    "word": "積極",
+    "ko_word": "적극",
+    "ko_meaning": "적극적으로 행동함"
+  },
+  {
+    "word": "目標",
+    "ko_word": "목표",
+    "ko_meaning": "도달하려는 목적"
+  },
+  {
+    "word": "予定日",
+    "ko_word": "예정일",
+    "ko_meaning": "계획된 날짜"
+  },
+  {
+    "word": "進歩",
+    "ko_word": "진보",
+    "ko_meaning": "앞으로 나아감"
+  },
+  {
+    "word": "感想",
+    "ko_word": "감상",
+    "ko_meaning": "느끼고 생각한 것"
+  },
+  {
+    "word": "希望者",
+    "ko_word": "희망자",
+    "ko_meaning": "하고 싶다고 원하는 사람"
+  },
+  {
+    "word": "意識",
+    "ko_word": "의식",
+    "ko_meaning": "깨달아 아는 마음"
+  },
+  {
+    "word": "反対",
+    "ko_word": "반대",
+    "ko_meaning": "어떤 것에 맞서거나 다름"
+  },
+  {
+    "word": "印刷",
+    "ko_word": "인쇄",
+    "ko_meaning": "글이나 그림을 종이에 찍는 것"
+  },
+  {
+    "word": "役割",
+    "ko_word": "역할",
+    "ko_meaning": "맡은 기능이나 임무"
+  },
+  {
+    "word": "信頼",
+    "ko_word": "신뢰",
+    "ko_meaning": "믿고 의지함"
+  },
+  {
+    "word": "支援",
+    "ko_word": "지원",
+    "ko_meaning": "도와주는 것"
+  },
+  {
+    "word": "条件反射",
+    "ko_word": "조건반사",
+    "ko_meaning": "특정 자극에 자동으로 반응함"
+  },
+  {
+    "word": "指示",
+    "ko_word": "지시",
+    "ko_meaning": "무엇을 하라고 알려줌"
+  },
+  {
+    "word": "緊張",
+    "ko_word": "긴장",
+    "ko_meaning": "신경이 곤두서는 상태"
+  },
+  {
+    "word": "感情表現",
+    "ko_word": "감정 표현",
+    "ko_meaning": "느낌을 밖으로 나타내는 것"
+  },
+  {
+    "word": "特徴",
+    "ko_word": "특징",
+    "ko_meaning": "다른 것과 구별되는 점"
+  },
+  {
+    "word": "操作",
+    "ko_word": "조작",
+    "ko_meaning": "기계 등을 다루는 것"
+  },
+  {
+    "word": "通知",
+    "ko_word": "통지",
+    "ko_meaning": "알리는 것"
+  },
+  {
+    "word": "応用",
+    "ko_word": "응용",
+    "ko_meaning": "이론을 실제에 적용하는 것"
+  },
+  {
+    "word": "設計",
+    "ko_word": "설계",
+    "ko_meaning": "계획을 세우고 만드는 것"
+  },
+  {
+    "word": "意欲",
+    "ko_word": "의욕",
+    "ko_meaning": "하고자 하는 마음"
+  },
+  {
+    "word": "参考",
+    "ko_word": "참고",
+    "ko_meaning": "도움이 되도록 참조함"
+  },
+  {
+    "word": "環境",
+    "ko_word": "환경",
+    "ko_meaning": "주변의 자연이나 조건"
+  },
+  {
+    "word": "記者",
+    "ko_word": "기자",
+    "ko_meaning": "뉴스를 취재하고 쓰는 사람"
+  },
+  {
+    "word": "実際",
+    "ko_word": "실제",
+    "ko_meaning": "현실에서 일어나는 것"
+  },
+  {
+    "word": "番組",
+    "ko_word": "방송",
+    "ko_meaning": "TV나 라디오의 프로그램"
+  },
+  {
+    "word": "活動",
+    "ko_word": "활동",
+    "ko_meaning": "목적을 가지고 움직이는 일"
+  },
+  {
+    "word": "資源",
+    "ko_word": "자원",
+    "ko_meaning": "쓸 수 있는 물질이나 에너지"
+  },
+  {
+    "word": "機会",
+    "ko_word": "기회",
+    "ko_meaning": "무언가를 할 수 있는 좋은 순간"
+  },
+  {
+    "word": "技術",
+    "ko_word": "기술",
+    "ko_meaning": "어떤 일을 하는 방법이나 능력"
+  },
+  {
+    "word": "教育",
+    "ko_word": "교육",
+    "ko_meaning": "지식이나 기술을 가르치고 배우는 것"
+  },
+  {
+    "word": "経済",
+    "ko_word": "경제",
+    "ko_meaning": "돈과 재화의 흐름과 관련된 일"
+  },
+  {
+    "word": "政治",
+    "ko_word": "정치",
+    "ko_meaning": "국가를 운영하는 일"
+  },
+  {
+    "word": "意見交換",
+    "ko_word": "의견 교환",
+    "ko_meaning": "생각을 주고받는 것"
+  },
+  {
+    "word": "見学",
+    "ko_word": "견학",
+    "ko_meaning": "실제로 보며 배우는 것"
+  },
+  {
+    "word": "試合",
+    "ko_word": "시합",
+    "ko_meaning": "운동 경기나 경쟁"
+  },
+  {
+    "word": "開催",
+    "ko_word": "개최",
+    "ko_meaning": "행사를 여는 것"
+  },
+  {
+    "word": "優秀",
+    "ko_word": "우수",
+    "ko_meaning": "아주 뛰어남"
+  },
+  {
+    "word": "通常",
+    "ko_word": "통상",
+    "ko_meaning": "보통의 경우"
+  },
+  {
+    "word": "関係者",
+    "ko_word": "관계자",
+    "ko_meaning": "관련된 사람"
+  },
+  {
+    "word": "分量",
+    "ko_word": "분량",
+    "ko_meaning": "양이나 수치"
+  },
+  {
+    "word": "提出",
+    "ko_word": "제출",
+    "ko_meaning": "내는 것"
+  },
+  {
+    "word": "事実",
+    "ko_word": "사실",
+    "ko_meaning": "실제로 있었던 일"
+  },
+  {
+    "word": "会員",
+    "ko_word": "회원",
+    "ko_meaning": "단체에 가입한 사람"
+  },
+  {
+    "word": "責務",
+    "ko_word": "책무",
+    "ko_meaning": "책임과 의무"
+  },
+  {
+    "word": "注目",
+    "ko_word": "주목",
+    "ko_meaning": "관심을 가지고 보는 것"
+  },
+  {
+    "word": "公開",
+    "ko_word": "공개",
+    "ko_meaning": "널리 드러내는 것"
+  },
+  {
+    "word": "講演",
+    "ko_word": "강연",
+    "ko_meaning": "앞에서 설명하며 말하는 것"
+  },
+  {
+    "word": "特別",
+    "ko_word": "특별",
+    "ko_meaning": "보통과 다르게 특별함"
+  },
+  {
+    "word": "内容量",
+    "ko_word": "내용량",
+    "ko_meaning": "내용의 양"
+  },
+  {
+    "word": "適切",
+    "ko_word": "적절",
+    "ko_meaning": "상황에 잘 맞는 상태"
+  },
+  {
+    "word": "安心感",
+    "ko_word": "안정감",
+    "ko_meaning": "마음이 편안하고 걱정이 없는 느낌"
+  },
+  {
+    "word": "自動",
+    "ko_word": "자동",
+    "ko_meaning": "스스로 작동함"
+  },
+  {
+    "word": "映像",
+    "ko_word": "영상",
+    "ko_meaning": "화면에 나타나는 이미지"
+  },
+  {
+    "word": "感染",
+    "ko_word": "감염",
+    "ko_meaning": "병이 옮는 것"
+  },
+  {
+    "word": "報道",
+    "ko_word": "보도",
+    "ko_meaning": "뉴스로 알림"
+  },
+  {
+    "word": "実験",
+    "ko_word": "실험",
+    "ko_meaning": "실제로 시험해 보는 것"
+  },
+  {
+    "word": "割合比",
+    "ko_word": "비율비",
+    "ko_meaning": "비교된 수치의 비율"
+  },
+  {
+    "word": "商品",
+    "ko_word": "상품",
+    "ko_meaning": "팔기 위한 물건"
+  },
+  {
+    "word": "調査",
+    "ko_word": "조사",
+    "ko_meaning": "자세히 살펴보는 것"
+  },
+  {
+    "word": "紹介",
+    "ko_word": "소개",
+    "ko_meaning": "다른 사람에게 알림"
+  },
+  {
+    "word": "選手",
+    "ko_word": "선수",
+    "ko_meaning": "경기에 참가하는 사람"
+  },
+  {
+    "word": "未来",
+    "ko_word": "미래",
+    "ko_meaning": "앞으로 올 시간"
+  },
+  {
+    "word": "記号",
+    "ko_word": "기호",
+    "ko_meaning": "특별한 의미를 가진 표시"
+  },
+  {
+    "word": "構成",
+    "ko_word": "구성",
+    "ko_meaning": "전체를 이루는 요소와 구조"
+  },
+  {
+    "word": "選挙",
+    "ko_word": "선거",
+    "ko_meaning": "사람을 뽑는 일"
+  },
+  {
+    "word": "観光",
+    "ko_word": "관광",
+    "ko_meaning": "구경하며 돌아다니는 것"
+  },
+  {
+    "word": "条件付き",
+    "ko_word": "조건부",
+    "ko_meaning": "조건이 붙은 상태"
+  },
+  {
+    "word": "運営",
+    "ko_word": "운영",
+    "ko_meaning": "조직을 관리하고 움직이는 것"
+  },
+  {
+    "word": "同意",
+    "ko_word": "동의",
+    "ko_meaning": "같은 생각을 가짐"
+  },
+  {
+    "word": "契約",
+    "ko_word": "계약",
+    "ko_meaning": "서로 약속을 문서로 정함"
+  },
+  {
+    "word": "経験値",
+    "ko_word": "경험치",
+    "ko_meaning": "경험을 수치로 나타낸 것"
+  },
+  {
+    "word": "確認済み",
+    "ko_word": "확인 완료",
+    "ko_meaning": "이미 확인한 상태"
+  },
+  {
+    "word": "提供",
+    "ko_word": "제공",
+    "ko_meaning": "필요한 것을 내주는 것"
+  },
+  {
+    "word": "学力",
+    "ko_word": "학력",
+    "ko_meaning": "공부한 능력"
+  },
+  {
+    "word": "支払い",
+    "ko_word": "지불",
+    "ko_meaning": "돈을 내는 것"
+  },
+  {
+    "word": "終了",
+    "ko_word": "종료",
+    "ko_meaning": "끝나는 것"
+  },
+  {
+    "word": "年齢",
+    "ko_word": "연령",
+    "ko_meaning": "나이"
+  },
+  {
+    "word": "申込",
+    "ko_word": "신청",
+    "ko_meaning": "참여를 원해 이름을 올리는 것"
+  },
+  {
+    "word": "代表",
+    "ko_word": "대표",
+    "ko_meaning": "무리를 대신하는 사람"
+  },
+  {
+    "word": "注意",
+    "ko_word": "주의",
+    "ko_meaning": "신경을 써서 조심함"
+  },
+  {
+    "word": "整理券",
+    "ko_word": "정리권",
+    "ko_meaning": "차례를 위한 번호표"
+  },
+  {
+    "word": "調整",
+    "ko_word": "조정",
+    "ko_meaning": "상태를 바로잡는 것"
+  },
+  {
+    "word": "通信",
+    "ko_word": "통신",
+    "ko_meaning": "정보를 주고받는 것"
+  },
+  {
+    "word": "保証書",
+    "ko_word": "보증서",
+    "ko_meaning": "품질을 책임지는 문서"
+  },
+  {
+    "word": "希望日",
+    "ko_word": "희망일",
+    "ko_meaning": "바라는 날짜"
+  },
+  {
+    "word": "単語",
+    "ko_word": "단어",
+    "ko_meaning": "의미를 가진 최소의 말"
+  },
+  {
+    "word": "表示",
+    "ko_word": "표시",
+    "ko_meaning": "글자나 기호로 나타냄"
+  },
+  {
+    "word": "交換",
+    "ko_word": "교환",
+    "ko_meaning": "서로 바꾸는 것"
+  },
+  {
+    "word": "有料",
+    "ko_word": "유료",
+    "ko_meaning": "돈을 내야 함"
+  },
+  {
+    "word": "無料",
+    "ko_word": "무료",
+    "ko_meaning": "돈이 들지 않음"
+  },
+  {
+    "word": "平日",
+    "ko_word": "평일",
+    "ko_meaning": "주말이 아닌 날"
+  },
+  {
+    "word": "正確",
+    "ko_word": "정확",
+    "ko_meaning": "틀림없이 맞음"
+  },
+  {
+    "word": "機能",
+    "ko_word": "기능",
+    "ko_meaning": "어떤 작용이나 역할"
+  },
+  {
+    "word": "人数",
+    "ko_word": "인원",
+    "ko_meaning": "사람의 수"
+  },
+  {
+    "word": "参加者数",
+    "ko_word": "참가자 수",
+    "ko_meaning": "참가한 사람의 수"
+  },
+  {
+    "word": "履歴",
+    "ko_word": "이력",
+    "ko_meaning": "지나온 경력"
+  },
+  {
+    "word": "在庫",
+    "ko_word": "재고",
+    "ko_meaning": "창고에 남아 있는 물건"
+  },
+  {
+    "word": "通知書",
+    "ko_word": "통지서",
+    "ko_meaning": "알림을 위한 문서"
+  },
+  {
+    "word": "受付",
+    "ko_word": "접수",
+    "ko_meaning": "신청이나 방문을 받는 곳"
+  },
+  {
+    "word": "合格",
+    "ko_word": "합격",
+    "ko_meaning": "시험에 붙음"
+  },
+  {
+    "word": "平均",
+    "ko_word": "평균",
+    "ko_meaning": "여러 값을 나눈 중간값"
+  },
+  {
+    "word": "内容確認",
+    "ko_word": "내용 확인",
+    "ko_meaning": "내용을 검토함"
+  },
+  {
+    "word": "整理中",
+    "ko_word": "정리 중",
+    "ko_meaning": "정돈하고 있는 중"
+  },
+  {
+    "word": "申込者",
+    "ko_word": "신청자",
+    "ko_meaning": "신청한 사람"
+  },
+  {
+    "word": "形式",
+    "ko_word": "형식",
+    "ko_meaning": "겉모양이나 방법"
+  },
+  {
+    "word": "返金",
+    "ko_word": "환불",
+    "ko_meaning": "돈을 돌려줌"
+  },
+  {
+    "word": "再開",
+    "ko_word": "재개",
+    "ko_meaning": "다시 시작함"
+  },
+  {
+    "word": "受験",
+    "ko_word": "응시",
+    "ko_meaning": "시험을 봄"
+  },
+  {
+    "word": "受験者",
+    "ko_word": "응시자",
+    "ko_meaning": "시험을 보는 사람"
+  },
+  {
+    "word": "演説",
+    "ko_word": "연설",
+    "ko_meaning": "사람들 앞에서 말함"
+  },
+  {
+    "word": "規則",
+    "ko_word": "규칙",
+    "ko_meaning": "지켜야 할 정해진 방법"
+  },
+  {
+    "word": "重要度",
+    "ko_word": "중요도",
+    "ko_meaning": "중요한 정도"
+  },
+  {
+    "word": "応援",
+    "ko_word": "응원",
+    "ko_meaning": "힘을 북돋아 주는 것"
+  },
+  {
+    "word": "見直し",
+    "ko_word": "재검토",
+    "ko_meaning": "다시 살펴봄"
+  },
+  {
+    "word": "担当",
+    "ko_word": "담당",
+    "ko_meaning": "맡은 일"
+  },
+  {
+    "word": "担当者",
+    "ko_word": "담당자",
+    "ko_meaning": "일을 맡은 사람"
+  },
+  {
+    "word": "実施",
+    "ko_word": "실시",
+    "ko_meaning": "실제로 시행함"
+  },
+  {
+    "word": "参加条件",
+    "ko_word": "참가 조건",
+    "ko_meaning": "참가하기 위한 조건"
+  },
+  {
+    "word": "応募",
+    "ko_word": "응모",
+    "ko_meaning": "모집에 신청함"
+  },
+  {
+    "word": "応募者",
+    "ko_word": "응모자",
+    "ko_meaning": "응모한 사람"
+  },
+  {
+    "word": "計算",
+    "ko_word": "계산",
+    "ko_meaning": "수를 셈함"
+  },
+  {
+    "word": "努力",
+    "ko_word": "노력",
+    "ko_meaning": "열심히 힘을 들이는 것"
+  },
+  {
+    "word": "課題",
+    "ko_word": "과제",
+    "ko_meaning": "해야 할 일이나 문제"
+  },
+  {
+    "word": "印象的",
+    "ko_word": "인상적",
+    "ko_meaning": "기억에 강하게 남는"
+  },
+  {
+    "word": "発言",
+    "ko_word": "발언",
+    "ko_meaning": "말을 하는 것"
+  },
+  {
+    "word": "登録",
+    "ko_word": "등록",
+    "ko_meaning": "명단이나 시스템에 이름을 올림"
+  },
+  {
+    "word": "変更可能",
+    "ko_word": "변경 가능",
+    "ko_meaning": "바꿀 수 있는 상태"
+  },
+  {
+    "word": "対策",
+    "ko_word": "대책",
+    "ko_meaning": "문제를 해결하기 위한 방법"
+  },
+  {
+    "word": "特集",
+    "ko_word": "특집",
+    "ko_meaning": "특정 주제에 집중한 기사나 방송"
+  },
+  {
+    "word": "報酬",
+    "ko_word": "보수",
+    "ko_meaning": "일을 한 대가로 받는 것"
+  },
+  {
+    "word": "利益",
+    "ko_word": "이익",
+    "ko_meaning": "얻는 좋은 결과나 돈"
+  },
+  {
+    "word": "欠席",
+    "ko_word": "결석",
+    "ko_meaning": "모임이나 수업에 나오지 않음"
+  },
+  {
+    "word": "別々",
+    "ko_word": "각각",
+    "ko_meaning": "서로 따로"
+  },
+  {
+    "word": "偶然",
+    "ko_word": "우연",
+    "ko_meaning": "뜻하지 않게 일어나는 일"
+  },
+  {
+    "word": "現状",
+    "ko_word": "현상",
+    "ko_meaning": "현재의 상태"
+  },
+  {
+    "word": "目安",
+    "ko_word": "기준",
+    "ko_meaning": "대략적인 기준이나 지표"
+  },
+  {
+    "word": "比較",
+    "ko_word": "비교",
+    "ko_meaning": "서로 견주는 것"
+  },
+  {
+    "word": "全体",
+    "ko_word": "전체",
+    "ko_meaning": "모든 부분을 포함한 전체"
+  },
+  {
+    "word": "保存",
+    "ko_word": "보존",
+    "ko_meaning": "그대로 유지함"
+  },
+  {
+    "word": "修理",
+    "ko_word": "수리",
+    "ko_meaning": "고장난 것을 고침"
+  },
+  {
+    "word": "部品",
+    "ko_word": "부품",
+    "ko_meaning": "전체를 이루는 작은 조각"
+  },
+  {
+    "word": "完成",
+    "ko_word": "완성",
+    "ko_meaning": "다 끝내서 완전한 상태"
+  },
+  {
+    "word": "説明会",
+    "ko_word": "설명회",
+    "ko_meaning": "설명을 위해 열리는 모임"
+  },
+  {
+    "word": "制限",
+    "ko_word": "제한",
+    "ko_meaning": "정한 범위를 넘지 못하게 함"
+  },
+  {
+    "word": "有効",
+    "ko_word": "유효",
+    "ko_meaning": "효력이 있음"
+  },
+  {
+    "word": "手段",
+    "ko_word": "수단",
+    "ko_meaning": "목적을 이루기 위한 방법"
+  },
+  {
+    "word": "編集",
+    "ko_word": "편집",
+    "ko_meaning": "자료를 정리하고 구성함"
+  },
+  {
+    "word": "日常",
+    "ko_word": "일상",
+    "ko_meaning": "매일 반복되는 생활"
+  },
+  {
+    "word": "主張",
+    "ko_word": "주장",
+    "ko_meaning": "자신의 의견을 강하게 말함"
+  },
+  {
+    "word": "期間",
+    "ko_word": "기간",
+    "ko_meaning": "어떤 일이 계속되는 동안"
+  },
+  {
+    "word": "説明責任",
+    "ko_word": "설명 책임",
+    "ko_meaning": "행동에 대해 설명해야 할 의무"
+  },
+  {
+    "word": "分析",
+    "ko_word": "분석",
+    "ko_meaning": "자세히 나누어 살펴봄"
+  },
+  {
+    "word": "経路",
+    "ko_word": "경로",
+    "ko_meaning": "지나가는 길"
+  },
+  {
+    "word": "人間関係",
+    "ko_word": "인간 관계",
+    "ko_meaning": "사람들 사이의 관계"
+  },
+  {
+    "word": "比較的",
+    "ko_word": "비교적",
+    "ko_meaning": "다른 것과 비교해 봤을 때"
+  },
+  {
+    "word": "混雑",
+    "ko_word": "혼잡",
+    "ko_meaning": "사람이나 차가 많아 복잡함"
+  },
+  {
+    "word": "再生",
+    "ko_word": "재생",
+    "ko_meaning": "다시 살아나거나 되돌리는 것"
+  },
+  {
+    "word": "材料",
+    "ko_word": "재료",
+    "ko_meaning": "무언가를 만들기 위한 것"
+  },
+  {
+    "word": "成績",
+    "ko_word": "성적",
+    "ko_meaning": "성과나 평가 결과"
+  },
+  {
+    "word": "安心安全",
+    "ko_word": "안심 안전",
+    "ko_meaning": "걱정 없이 안전한 상태"
+  },
+  {
+    "word": "深刻",
+    "ko_word": "심각",
+    "ko_meaning": "상태가 매우 나쁜"
+  },
+  {
+    "word": "満員",
+    "ko_word": "만원",
+    "ko_meaning": "사람이 가득 참"
+  },
+  {
+    "word": "合計",
+    "ko_word": "합계",
+    "ko_meaning": "모두 더한 값"
+  },
+  {
+    "word": "利用者",
+    "ko_word": "이용자",
+    "ko_meaning": "무언가를 사용하는 사람"
+  },
+  {
+    "word": "報告書",
+    "ko_word": "보고서",
+    "ko_meaning": "보고 내용을 적은 문서"
+  },
+  {
+    "word": "手数料",
+    "ko_word": "수수료",
+    "ko_meaning": "서비스를 위해 내는 돈"
+  },
+  {
+    "word": "予備",
+    "ko_word": "예비",
+    "ko_meaning": "미리 준비해 둠"
+  },
+  {
+    "word": "理解不足",
+    "ko_word": "이해 부족",
+    "ko_meaning": "잘 알지 못함"
+  },
+  {
+    "word": "質問",
+    "ko_word": "질문",
+    "ko_meaning": "묻는 말"
+  },
+  {
+    "word": "回答",
+    "ko_word": "대답",
+    "ko_meaning": "질문에 대한 응답"
+  }
+]
