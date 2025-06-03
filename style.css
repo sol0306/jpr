@@ -9,7 +9,7 @@ h1 {
   margin-bottom: 30px;
   font-size: 6vw;
 }
-#word_display, #jp_display, #meaning_display {
+#jp_word_display, #jp_display, #meaning_display {
   font-size: 5vw;
   margin: 20px;
 }
