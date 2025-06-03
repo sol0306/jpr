@@ -1,5 +1,6 @@
 [
-{ "jp_word": "私", "jp_pronunciation": "わたし", "ko_meaning": "나, 저" },
+{ 
+      "jp_word": "私", "jp_pronunciation": "わたし", "ko_meaning": "나, 저" },
       { "jp_word": "あなた", "jp_pronunciation": "あなた", "ko_meaning": "당신" },
       { "jp_word": "本", "jp_pronunciation": "ほん", "ko_meaning": "책" },
       { "jp_word": "辞書", "jp_pronunciation": "じしょ", "ko_meaning": "사전" },
@@ -199,5 +200,5 @@
       { "jp_word": "便利", "jp_pronunciation": "べんり", "ko_meaning": "편리하다" },
       { "jp_word": "簡単", "jp_pronunciation": "かんたん", "ko_meaning": "간단하다" },
       { "jp_word": "きれい", "jp_pronunciation": "きれい", "ko_meaning": "예쁘다, 깨끗하다" },
-      { "jp_word": "好き", "jp_pronunciation": "すき", "ko_meaning": "좋아하다" },
+      { "jp_word": "好き", "jp_pronunciation": "すき", "ko_meaning": "좋아하다" }
 ]
