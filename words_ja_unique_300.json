@@ -1,7 +1,5 @@
 [
 { 
-      "jp_word": "私", "jp_pronunciation": "わたし", "ko_meaning": "나, 저" },
-      { "jp_word": "あなた", "jp_pronunciation": "あなた", "ko_meaning": "당신" },
       { "jp_word": "本", "jp_pronunciation": "ほん", "ko_meaning": "책" },
       { "jp_word": "辞書", "jp_pronunciation": "じしょ", "ko_meaning": "사전" },
       { "jp_word": "学校", "jp_pronunciation": "がっこう", "ko_meaning": "학교" },
@@ -14,8 +12,6 @@
       { "jp_word": "大学", "jp_pronunciation": "だいがく", "ko_meaning": "대학교" },
       { "jp_word": "病院", "jp_pronunciation": "びょういん", "ko_meaning": "병원" },
       { "jp_word": "電気", "jp_pronunciation": "でんき", "ko_meaning": "전기, 불" },
-      { "jp_word": "歳", "jp_pronunciation": "さい", "ko_meaning": "살 (나이)" },
-      { "jp_word": "何歳", "jp_pronunciation": "なんさい", "ko_meaning": "몇 살" },
       { "jp_word": "テレビ", "jp_pronunciation": "テレビ", "ko_meaning": "텔레비전" },
       { "jp_word": "カメラ", "jp_pronunciation": "カメラ", "ko_meaning": "카메라" },
       { "jp_word": "コンピューター", "jp_pronunciation": "コンピューター", "ko_meaning": "컴퓨터" },
@@ -177,7 +173,6 @@
       { "jp_word": "自由", "jp_pronunciation": "じゆう", "ko_meaning": "자유롭다" },
       { "jp_word": "不便", "jp_pronunciation": "ふべん", "ko_meaning": "불편하다" },
       { "jp_word": "結構", "jp_pronunciation": "けっこう", "ko_meaning": "상당히, 꽤" },
-      { "jp_word": "結構です", "jp_pronunciation": "けっこうです", "ko_meaning": "괜찮습니다, 됐습니다" },
       { "jp_word": "残念", "jp_pronunciation": "ざんねん", "ko_meaning": "아쉽다, 유감이다" },
       { "jp_word": "熱心", "jp_pronunciation": "ねっしん", "ko_meaning": "열심이다" },
       { "jp_word": "丁寧", "jp_pronunciation": "ていねい", "ko_meaning": "정중하다, 꼼꼼하다" },
