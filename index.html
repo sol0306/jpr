@@ -15,12 +15,12 @@
   </div>
 
   <div id="app_section" style="display: none;">
-    <div id="word_display">単語を生成してください</div>
-    <div id="jp_display" style="display: none;"><strong>韓国語:</strong> <span id="ko_word"></span></div>
+    <div id="jp_word_display">単語を生成してください</div>
+    <div id="jp_display" style="display: none;"><strong>読み方:</strong> <span id="jp_pronunciation"></span></div>
     <div id="meaning_display" style="display: none;"><strong>意味:</strong> <span id="ko_meaning"></span></div>
 
     <div class="button-group">
-      <button id="btn_show_jp" onclick="revealJapanese()">① 単語を見る</button>
+      <button id="btn_show_jp" onclick="revealJapanese()">① 読み方を見る</button>
       <button id="btn_show_meaning" onclick="revealMeaning()" style="display: none;">② 意味を見る</button>
       <button id="btn_next" onclick="generateWord()" style="display: none;">③ 次の単語</button>
       <button id="btn_stop" onclick="stopStopwatch()" style="display: none;">⏱ タイマーを止める</button>
