@@ -31,8 +31,8 @@ function generateWord() {
 
   const random = shuffledWords[currentIndex++];
   
-  document.getElementById("word_display").innerText = `単語: ${random.word}`;
-  document.getElementById("ko_word").innerText = random.ko_word;
+  document.getElementById("jp_word_display").innerText = `単語: ${random.word}`;
+  document.getElementById("jp_pronunciation").innerText = random.ko_word;
   document.getElementById("ko_meaning").innerText = random.ko_meaning;
 
   // 초기 상태 설정
