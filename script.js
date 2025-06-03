@@ -8,7 +8,7 @@ fetch('words_ja_unique_300.json?_=' + Date.now())
   .then(response => response.json())
   .then(data => {
     words = data;
-    shuffleWords(); // 처음 셔플
+    shuffleWords();
   });
 
 function shuffleWords() {
@@ -26,17 +26,16 @@ function generateWord() {
   if (shuffledWords.length === 0) return;
 
   if (currentIndex >= shuffledWords.length) {
-    shuffleWords(); // 모든 단어 다 본 경우 다시 셔플
+    shuffleWords();
   }
 
   const random = shuffledWords[currentIndex++];
 
-  // 필드명에 맞게 수정
+  // HTML에서 접두어 출력하므로 여기선 값만 입력
   document.getElementById("jp_word_display").innerText = `単語: ${random.jp_word}`;
-  document.getElementById("jp_pronunciation").innerText = `読み方: ${random.jp_pronunciation}`;
-  document.getElementById("ko_meaning").innerText = `뜻: ${random.ko_meaning}`;
+  document.getElementById("jp_pronunciation").innerText = random.jp_pronunciation;
+  document.getElementById("ko_meaning").innerText = random.ko_meaning;
 
-  // 초기 상태 설정
   document.getElementById("jp_display").style.display = "none";
   document.getElementById("meaning_display").style.display = "none";
 
